@@ -20,7 +20,7 @@
             "oldPrice": 15.56,
             "rating": 4.69,
             "stock": 94,
-            "isAvailable": true,
+            "isAvailable": false,
             "category": "BUNDLES",
             "image": "https://raw.githubusercontent.com/developerdamirbek/fr_images/main/product2.png"
         },
